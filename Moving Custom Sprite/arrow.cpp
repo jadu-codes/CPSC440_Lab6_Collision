@@ -8,7 +8,7 @@ arrowClass::arrowClass()
 	score = 0;
 	for(int i=0; i<4; i++)
 	{
-		arrow_bmp[i]=NULL;
+		arrow_bmp[i]=NULL
 	}
 }
 arrowClass::~arrowClass()
